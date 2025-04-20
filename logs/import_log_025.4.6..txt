@@ -1,0 +1,10 @@
+Changed database context to 'Reports'.
+Pokretanje importa za datum: 2025-04-15
+Problematicni LogID 423300 vec postoji u tablici Picking. Preskacemo ga.
+Ukupno dohvaceno redova: 5069
+Upozorenje: Pronadeno 35 duplikata u izvornim podacima!
+Broj redova nakon uklanjanja duplikata: 5034
+Broj novih unesenih redova: 5034
+NewRecordsAdded TotalRecords
+--------------- ------------
+           5034       353261
